@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* CSS Document */
+
+#banner
+{
+	background-color:#62A5D7;
+	text-align:right;
+	padding:20px;
+	font-family: Segoe, Segoe UI, DejaVu Sans, Trebuchet MS, Verdana," sans-serif";
+	}
+
+#nav_bar
+{
+	background-color:#9F939E;
+	font-family: Segoe, Segoe UI, DejaVu Sans, Trebuchet MS, Verdana," sans-serif";
+	
+}
+
+#content
+{
+	background-color:#A481CB;
+	font-family: Segoe, Segoe UI, DejaVu Sans, Trebuchet MS, Verdana," sans-serif";
+	font-size:14px;
+}
+
+#footer
+{
+	background-color:#F99496;
+	font-family: Segoe, Segoe UI, DejaVu Sans, Trebuchet MS, Verdana," sans-serif";
+	font-size:11px;
+}
+#C96988
