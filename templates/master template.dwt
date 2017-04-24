@@ -8,23 +8,23 @@
 <!-- TemplateBeginEditable name="head" -->
 <!-- TemplateEndEditable -->
 <link href="../css/masterstyle.css" rel="stylesheet" type="text/css">
+ <link href="https://fonts.googleapis.com/css?family=Asar" rel="stylesheet"> 
 </head>
 
 <body>
 <!-- TemplateBeginEditable name="content" -->
 <div id="banner">CossiePlay</div>
-<div id="nav_bar"><table width="500" border="1">
-  <tbody>
-    <tr>
-      <td><a href="../index.html">Home</a></td>
-      <td><a href="../about_us.html">About Us</a></td>
-      <td><a href="../resources.html">Products</a></td>
-      <td><a href="../resources.html">Party</a></td>
-      <td><a href="../contact.html">Contact</a></td>
-    </tr>
-  </tbody>
-</table>
-</div>
+<div class="container">
+    </div>
+    <nav class="secondary_header" id="menu">
+      <ul>
+        <li>Home</li>
+        <li>About Us</li>
+        <li>Products</li>
+        <li>Party</li>
+        <li>Contact</li>
+      </ul>
+    </nav>
 <div id="content">Main Body</div>
 <div id="footer">Copyright 2017</div>
 <!-- TemplateEndEditable -->
