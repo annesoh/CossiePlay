@@ -32,8 +32,15 @@ mark.brown {
     color: #8C4B30;
     background: none;
 }
+mark.red {
+    color: #800000;
+    background-color: #A1A1A1;
+}
 span.caption {
 	font-size: 12px;
+}
+span.large {
+	font-size: 18px;
 }
 ul.dashed {
     list-style: none;
