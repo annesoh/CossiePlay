@@ -17,11 +17,15 @@ mark {
 	color: #6D4582;
 }
 mark.blue {
-    color:#0000E3;
+    color: #0000E3;
     background: none;
 }
 mark.darkblue {
-    color:#0000A6;
+    color: #0000A6;
+    background: none;
+}
+mark.pink {
+    color: #C4496B;
     background: none;
 }
 ul.dashed {
@@ -89,7 +93,7 @@ a:active {
 
 #content
 {
-	background-color:#A481CB;
+	background-color: #A481CB;
 	padding-top: 1px;
 	padding-bottom: 25px;
 	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
@@ -102,4 +106,4 @@ a:active {
 	font-family: Segoe, Segoe UI, DejaVu Sans, Trebuchet MS, Verdana," sans-serif";
 	font-size: 11px;
 }
-#C96988 #9F939E #0C2058
+/*useful colours #C96988 #9F939E #0C2058 concern: working laptop's colour display is different from others- can't help that much though. test on other laptop when finished or on lab desktops when published; lighter background colour if needed #A583CB/
