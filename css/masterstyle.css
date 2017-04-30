@@ -34,6 +34,9 @@ span.caption {
 span.large {
 	font-size: 16px;
 }
+span.largecossieplay {
+	font-size:17px;
+}
 span.larger {
 	font-size: 18px;
 }
@@ -72,6 +75,26 @@ img.standard {
 img.rabbits {
 	margin-top: 15px;
 	height: 240px;
+}
+img.spiderman1 {
+	margin-top: 24px;
+	margin-right: 5px;
+	height:310px;
+}
+img.spiderman {
+	margin-top: 280px;
+	margin-right: 15px;
+	height:400px;
+}
+img.galleryportrait {
+	margin-bottom: 30px;
+	margin-left: 70px;
+	height: 550px;
+}
+img.gallerylandscape {
+	margin-bottom: 30px;
+	margin-left: 70px;
+	height: 400px;
 }
 table {
 	border-collapse: collapse;
