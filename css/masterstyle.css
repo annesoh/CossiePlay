@@ -32,6 +32,9 @@ span.caption {
 	font-size: 12px;
 }
 span.large {
+	font-size: 16px;
+}
+span.larger {
 	font-size: 18px;
 }
 span.normal {
@@ -55,6 +58,21 @@ img {
 	margin-left: 10px;
     padding: 0px;
     height: 240px;
+}
+table {
+	border-collapse: collapse;
+	margin-left: 20px;
+}
+th.costume {
+	width: 260px;
+}
+th.size, th.price {
+  width: 60px;
+}
+th, td {
+	padding: 15px;
+	border-bottom: 3px solid #ddd;
+	text-align: left;
 }
 #banner
 {
